@@ -1,5 +1,5 @@
 if game.PlaceId == 8569358381 then
-    loadstring(game:httpget("https://raw.githubusercontent.com/netherrlmm/top-g/refs/heads/main/vexboltsOPA.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/netherrlmm/top-g/refs/heads/main/vexboltsOPA.lua"))()
 elseif game.PlaceId == 3237168 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/netherrlmm/top-g/refs/heads/main/vexbolts.obfuscated.lua"))()
 end
