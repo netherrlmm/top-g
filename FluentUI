@@ -154,6 +154,7 @@ local Themes = {
 		Input = Color3.fromHex("#180030"),
 		InputFocused = Color3.fromHex("#180030"),
 		InputIndicator = Color3.fromHex("#9e85ad"),
+                InputIndicatorFocus = Color3.fromHex("#b133ff"),
 
 		Dialog = Color3.fromHex("#25013c"),
 		DialogHolder = Color3.fromHex("#120024"),
