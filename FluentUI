@@ -167,7 +167,7 @@ local Themes = {
 		Text = Color3.fromHex("#e9d9f2"),
 		SubText = Color3.fromHex("#9e85ad"),
 		Hover = Color3.fromHex("#4d057b"),
-		HoverChange = 0.1
+		HoverChange = 0.1,
 	},
 	Dark = {
 		Name = "Dark",
