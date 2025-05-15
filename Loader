@@ -2,4 +2,6 @@ if game.PlaceId == 8569358381 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/netherrlmm/top-g/refs/heads/main/vexboltsOPA.lua"))()
 elseif game.PlaceId == 3237168 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/netherrlmm/top-g/refs/heads/main/vexbolts.obfuscated.lua"))()
+elseif game.PlaceId == 13796645198 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/netherrlmm/top-g/refs/heads/main/Vexbolts.Flashpoint:WorldsCollide"))()
 end
